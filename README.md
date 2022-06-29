@@ -1,7 +1,7 @@
  # figma-clock 
  
  
- live at : https://kaflekundan.github.io/fignma-clock
+ live at : https://kaflekundan.github.io/figma-clock
  
  
 this is simple landing page created from a  figma ui design
